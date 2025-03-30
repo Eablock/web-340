@@ -1,0 +1,4 @@
+{
+  "start": "node index.js",
+  "test": "node tester.js"
+}
